@@ -17,6 +17,5 @@
 | SD_SCLK    | PB13            |
 | SD_CS      | PB12            |
 
-
-
- Quick use reference [get_started](http://longan.sipeed.com/en/get_started/pio.html)
+- Copy the files in the `resource` folder to the SD card
+- Quick use reference [get_started](http://longan.sipeed.com/en/get_started/pio.html)
